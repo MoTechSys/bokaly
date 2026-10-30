@@ -15,4 +15,5 @@
 | [`docs/02-analysis.md`](docs/02-analysis.md) | تحليل المحادثة والصور وقرار التصميم |
 | [`docs/03-requirements.md`](docs/03-requirements.md) | المتطلبات ومعايير القبول |
 | [`docs/04-build-and-test.md`](docs/04-build-and-test.md) | التنفيذ والصور ونتائج الاختبار |
+| [`docs/05-performance.md`](docs/05-performance.md) | تسريع الفتح: القياسات قبل وبعد |
 | `docs/raw/` | المواد الخام: المحادثة، الصور، التسجيلات |
